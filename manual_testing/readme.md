@@ -1,0 +1,2 @@
+- In this project, we're going to pass trough all the phases of a manual testing, from requirement analysis to testing closure.
+- I'm going to work with a activity with AI helping.
